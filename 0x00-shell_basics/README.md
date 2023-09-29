@@ -10,3 +10,4 @@ The ninth removes a file in a certain path
 10th removes that directory
 11th goes back to previous directory
 12th lists in a lot of directories
+13th tells you the file type in a certain directory
