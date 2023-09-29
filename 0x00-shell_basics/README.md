@@ -6,3 +6,4 @@ The fifth script lists even hidden files in long format
 The sixth script lists all of the above with user ID
 The seventh creates a new directory in tmp
 The eigth moves a file to another directory
+The ninth removes a file in a certain path
